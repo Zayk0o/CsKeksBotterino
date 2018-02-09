@@ -1,0 +1,13 @@
+{
+  "name": "cs-keks-bot",
+  "version": "0.0.0",
+  "description": "CsKeksBot",
+  "main": "app.js",
+  "author": {
+    "name": "Maico"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "mongodb": "^3.0.2"
+  }
+}
